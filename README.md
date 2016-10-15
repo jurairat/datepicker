@@ -4,7 +4,7 @@ To clone this project:
 
 git clone https://github.com/jurairat/datepicker
 
-cd datapicker
+cd datepicker
 
 ionic state restore
 
