@@ -8,7 +8,7 @@ cd datepicker
 
 ionic state restore
 
-cordovar plugin add https://github.com/VitaliiBlagodir/cordova-plugin-datepicker.git
+cordova plugin add https://github.com/VitaliiBlagodir/cordova-plugin-datepicker.git
 
 bower install ngCordova --save
 
